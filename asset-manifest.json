@@ -1,7 +1,7 @@
-git {
+{
   "files": {
     "main.css": "/static/css/main.9caf2443.css",
-    "main.js": "/static/js/main.92675170.js",
+    "main.js": "/static/js/main.9b761291.js",
     "static/js/787.96becc08.chunk.js": "/static/js/787.96becc08.chunk.js",
     "static/media/favicon.ico": "/static/media/favicon.98f464b43d8fb0055d9e.ico",
     "static/media/penguin-waiting.gif": "/static/media/penguin-waiting.d35b6bbc174160a61ab3.gif",
@@ -68,11 +68,11 @@ git {
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
     "main.9caf2443.css.map": "/static/css/main.9caf2443.css.map",
-    "main.92675170.js.map": "/static/js/main.92675170.js.map",
+    "main.9b761291.js.map": "/static/js/main.9b761291.js.map",
     "787.96becc08.chunk.js.map": "/static/js/787.96becc08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9caf2443.css",
-    "static/js/main.92675170.js"
+    "static/js/main.9b761291.js"
   ]
 }
