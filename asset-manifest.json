@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.a61cbe7d.css",
-    "main.js": "/static/js/main.6318835f.js",
+    "main.css": "/static/css/main.f855fdce.css",
+    "main.js": "/static/js/main.b6f2249c.js",
     "static/js/787.96becc08.chunk.js": "/static/js/787.96becc08.chunk.js",
     "static/media/favicon.ico": "/static/media/favicon.98f464b43d8fb0055d9e.ico",
+    "static/media/penguin-waiting.gif": "/static/media/penguin-waiting.d35b6bbc174160a61ab3.gif",
     "static/media/6sense.png": "/static/media/6sense.10998cc3c86dcec8ca65.png",
     "static/media/cognizant.png": "/static/media/cognizant.832c0ecaa39e4b02fcfa.png",
     "static/media/company.png": "/static/media/company.32b3c02be984df24b81b.png",
@@ -66,12 +67,12 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
-    "main.a61cbe7d.css.map": "/static/css/main.a61cbe7d.css.map",
-    "main.6318835f.js.map": "/static/js/main.6318835f.js.map",
+    "main.f855fdce.css.map": "/static/css/main.f855fdce.css.map",
+    "main.b6f2249c.js.map": "/static/js/main.b6f2249c.js.map",
     "787.96becc08.chunk.js.map": "/static/js/787.96becc08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a61cbe7d.css",
-    "static/js/main.6318835f.js"
+    "static/css/main.f855fdce.css",
+    "static/js/main.b6f2249c.js"
   ]
 }
