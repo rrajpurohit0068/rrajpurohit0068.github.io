@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.7dfb914a.css",
-    "main.js": "/static/js/main.3848d0e8.js",
+    "main.css": "/static/css/main.cbcd7ea5.css",
+    "main.js": "/static/js/main.e24dc725.js",
     "static/js/787.96becc08.chunk.js": "/static/js/787.96becc08.chunk.js",
+    "static/media/ezgif-5-7902edd77d.gif": "/static/media/ezgif-5-7902edd77d.ba35422f737c3e8fca07.gif",
     "static/media/favicon.ico": "/static/media/favicon.98f464b43d8fb0055d9e.ico",
-    "static/media/giphy.gif": "/static/media/giphy.8d7210b2a7178122af8a.gif",
-    "static/media/penguin-waiting.gif": "/static/media/penguin-waiting.d35b6bbc174160a61ab3.gif",
     "static/media/6sense.png": "/static/media/6sense.10998cc3c86dcec8ca65.png",
     "static/media/cognizant.png": "/static/media/cognizant.832c0ecaa39e4b02fcfa.png",
     "static/media/company.png": "/static/media/company.32b3c02be984df24b81b.png",
@@ -68,12 +67,12 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
-    "main.7dfb914a.css.map": "/static/css/main.7dfb914a.css.map",
-    "main.3848d0e8.js.map": "/static/js/main.3848d0e8.js.map",
+    "main.cbcd7ea5.css.map": "/static/css/main.cbcd7ea5.css.map",
+    "main.e24dc725.js.map": "/static/js/main.e24dc725.js.map",
     "787.96becc08.chunk.js.map": "/static/js/787.96becc08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dfb914a.css",
-    "static/js/main.3848d0e8.js"
+    "static/css/main.cbcd7ea5.css",
+    "static/js/main.e24dc725.js"
   ]
 }
