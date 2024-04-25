@@ -1,0 +1,50 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  line-height: 1.5;
+}
+
+body {
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  
+}
+
+
+#app {
+  background-color: #fafafa;
+  min-height: 100%;
+  min-width: 100%;
+}
+
+p,
+label {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  line-height: 1.5em;
+}
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+@keyframes gradient{
+  50%{
+    background-position: 100% 0%;
+  }
+}
+
+.bg-img {
+  
+  background-image: url('./Loader2/high.gif'), url('./Loader2/low.gif');
+  background-size:     cover, cover;                      /* <------ */
+  background-repeat:   no-repeat, no-repeat;
+  background-position: center center, center center;    
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
