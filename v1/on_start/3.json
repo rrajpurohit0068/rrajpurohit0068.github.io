@@ -1,0 +1,14 @@
+{
+    "id": 4,
+    "updated": "2024-04-11T08:07:41.270912Z",
+    "created": "2017-11-09T05:39:32.697893Z",
+    "is_deleted": false,
+    "name": "6sense",
+    "has_predictive": true,
+    "is_setup": true,
+    "is_in_demo_state": false,
+    "tracking_since": null,
+    "last_updated": "2024-04-10",
+    "has_pipeline": true,
+    "last_updated_time": "2024-04-11T08:07:41.270752Z"
+}

@@ -1,0 +1,1 @@
+{"username": "rajivkumar.rajpurohit@6sense.com", "id": 32033, "is_superuser": false, "is_staff": true, "is_internaluser": false, "is_dev": true, "organization": {"id": 4, "org_auth_id": 79, "org_name": "6sense"}, "role_id": 3, "app_roles": [{"role_id": 3, "app_id": 1}, {"role_id": 35, "app_id": 2}, {"role_id": 15, "app_id": 3}]}

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "ABM",
+        "enabled": true
+    },
+    {
+        "id": 2,
+        "name": "SI",
+        "enabled": true
+    },
+    {
+        "id": 3,
+        "name": "CE",
+        "enabled": true
+    },
+    {
+        "id": 4,
+        "name": "Workflows",
+        "enabled": true
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "data": {
+        "stats": {
+            "usageMetrics": {
+                "platformLoginsLast3Months": 1078,
+                "siLoginsLast3Months": 0,
+                "__typename": "UsageMetricsContent"
+            },
+            "__typename": "StatsType"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 7,
+        "normalized_name": "6SENSE",
+        "statename": "models_done",
+        "updated": "2023-09-27T15:48:04Z",
+        "created": "2017-02-02T07:35:41Z",
+        "is_deleted": false,
+        "display_name": "6sense",
+        "name": "6sense",
+        "org": 4,
+        "state": 4
+    },
+    {
+        "id": 5174,
+        "normalized_name": "SLINTEL",
+        "statename": "models_done",
+        "updated": "2023-09-27T15:48:07Z",
+        "created": "2022-09-22T14:18:00Z",
+        "is_deleted": false,
+        "display_name": "Sales Intelligence",
+        "name": "slintel",
+        "org": 4,
+        "state": 4
+    }
+]

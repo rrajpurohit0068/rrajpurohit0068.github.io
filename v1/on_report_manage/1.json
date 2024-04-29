@@ -1,0 +1,112 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": 22656,
+            "edited_by": "john.he@6sense.com",
+            "created_by": "sidney.gomez@6sense.com",
+            "seg_stats": {
+                "seg_count": 0,
+                "folder_count": 1
+            },
+            "classification_type": "saved_report_folder",
+            "updated": "2022-01-12T19:17:39.364023Z",
+            "created": "2022-01-12T19:17:39.364077Z",
+            "is_deleted": false,
+            "name": "SC Saved Reports",
+            "org": 4
+        },
+        {
+            "id": 22705,
+            "edited_by": "ami.arad@6sense.com",
+            "created_by": "nikesh.mehta@6sense.com",
+            "seg_stats": {
+                "seg_count": 0,
+                "folder_count": 1
+            },
+            "classification_type": "saved_report_folder",
+            "updated": "2022-01-13T04:23:54.228093Z",
+            "created": "2022-01-13T04:23:54.228125Z",
+            "is_deleted": false,
+            "name": "Marketing Ops Reports",
+            "org": 4
+        },
+        {
+            "id": 25929,
+            "edited_by": "ami.arad@6sense.com",
+            "created_by": "ami.arad@6sense.com",
+            "seg_stats": {
+                "seg_count": 0,
+                "folder_count": 1
+            },
+            "classification_type": "saved_report_folder",
+            "updated": "2022-03-02T21:47:29.719141Z",
+            "created": "2022-03-02T21:47:29.719195Z",
+            "is_deleted": false,
+            "name": "Product Management",
+            "org": 4
+        },
+        {
+            "id": 27034,
+            "edited_by": "genghis.goodman@6sense.com",
+            "created_by": "stefano.iacono@6sense.com",
+            "seg_stats": {
+                "seg_count": 0,
+                "folder_count": 1
+            },
+            "classification_type": "saved_report_folder",
+            "updated": "2022-03-18T17:07:36.072468Z",
+            "created": "2022-03-18T17:07:36.072500Z",
+            "is_deleted": false,
+            "name": "Europe Reports",
+            "org": 4
+        },
+        {
+            "id": 46364,
+            "edited_by": "eric.wittlake@6sense.com",
+            "created_by": "eric.wittlake@6sense.com",
+            "seg_stats": {
+                "seg_count": 0,
+                "folder_count": 1
+            },
+            "classification_type": "saved_report_folder",
+            "updated": "2022-12-05T23:52:49.049002Z",
+            "created": "2022-12-05T23:52:49.049033Z",
+            "is_deleted": false,
+            "name": "Vertical Reports",
+            "org": 4
+        },
+        {
+            "id": 46386,
+            "edited_by": "john.he@6sense.com",
+            "created_by": "subham.srivastav@6sense.com",
+            "seg_stats": {
+                "seg_count": 0,
+                "folder_count": 1
+            },
+            "classification_type": "saved_report_folder",
+            "updated": "2022-12-06T13:27:24.432768Z",
+            "created": "2022-12-06T13:27:24.432804Z",
+            "is_deleted": false,
+            "name": "Shubham sheeth Folder",
+            "org": 4
+        },
+        {
+            "id": 47774,
+            "edited_by": "nikita.salunkhe@6sense.com",
+            "created_by": "nikita.salunkhe@6sense.com",
+            "seg_stats": {
+                "seg_count": 0,
+                "folder_count": 1
+            },
+            "classification_type": "saved_report_folder",
+            "updated": "2023-11-21T11:44:30.369604Z",
+            "created": "2023-11-21T11:44:30.369640Z",
+            "is_deleted": false,
+            "name": "New Folder",
+            "org": 4
+        }
+    ]
+}

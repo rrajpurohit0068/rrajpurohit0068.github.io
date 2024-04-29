@@ -1,0 +1,56 @@
+[
+    {
+        "product": "6sense",
+        "stage_prod": "Moderate",
+        "stage_new": "Moderate",
+        "total_mids": 729
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Moderate",
+        "stage_new": "Strong",
+        "total_mids": 502
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Moderate",
+        "stage_new": "Weak",
+        "total_mids": 807
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Strong",
+        "stage_new": "Moderate",
+        "total_mids": 283
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Strong",
+        "stage_new": "Strong",
+        "total_mids": 540
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Strong",
+        "stage_new": "Weak",
+        "total_mids": 161
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Weak",
+        "stage_new": "Moderate",
+        "total_mids": 873
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Weak",
+        "stage_new": "Strong",
+        "total_mids": 231
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Weak",
+        "stage_new": "Weak",
+        "total_mids": 3677
+    }
+]

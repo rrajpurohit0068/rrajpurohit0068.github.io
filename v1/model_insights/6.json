@@ -1,0 +1,98 @@
+[
+    {
+        "product": "6sense",
+        "stage_prod": "Awareness",
+        "stage_new": "Awareness",
+        "total_mids": 735
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Awareness",
+        "stage_new": "Consideration",
+        "total_mids": 0
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Awareness",
+        "stage_new": "Decision",
+        "total_mids": 0
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Awareness",
+        "stage_new": "Purchase",
+        "total_mids": 0
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Consideration",
+        "stage_new": "Decision",
+        "total_mids": 170
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Consideration",
+        "stage_new": "Purchase",
+        "total_mids": 0
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Consideration",
+        "stage_new": "Consideration",
+        "total_mids": 2990
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Consideration",
+        "stage_new": "Awareness",
+        "total_mids": 921
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Decision",
+        "stage_new": "Purchase",
+        "total_mids": 132
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Decision",
+        "stage_new": "Decision",
+        "total_mids": 2032
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Decision",
+        "stage_new": "Consideration",
+        "total_mids": 403
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Decision",
+        "stage_new": "Awareness",
+        "total_mids": 10
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Purchase",
+        "stage_new": "Awareness",
+        "total_mids": 0
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Purchase",
+        "stage_new": "Decision",
+        "total_mids": 48
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Purchase",
+        "stage_new": "Consideration",
+        "total_mids": 0
+    },
+    {
+        "product": "6sense",
+        "stage_prod": "Purchase",
+        "stage_new": "Purchase",
+        "total_mids": 517
+    }
+]

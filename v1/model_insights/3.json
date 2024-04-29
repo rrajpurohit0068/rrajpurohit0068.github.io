@@ -1,0 +1,14 @@
+[
+    {
+        "product": "all",
+        "sixqa_daily_impact_count": -8
+    },
+    {
+        "product": "slintel",
+        "sixqa_daily_impact_count": 22
+    },
+    {
+        "product": "6sense",
+        "sixqa_daily_impact_count": -35
+    }
+]

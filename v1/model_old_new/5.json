@@ -1,0 +1,42 @@
+[
+    {
+        "dt": "2024-01-01",
+        "buying_stage": "Purchase",
+        "perc_total_accounts": 0.05732077279259141,
+        "perc_total_opptys": 0.41448692152917505,
+        "perc_opened": 0.11476323119777158,
+        "baseline": 1.59,
+        "lift": 7.217813282878716,
+        "category": "accounts"
+    },
+    {
+        "dt": "2024-01-01",
+        "buying_stage": "Decision",
+        "perc_total_accounts": 0.1628293150247485,
+        "perc_total_opptys": 0.352112676056338,
+        "perc_opened": 0.03432045499117474,
+        "baseline": 1.59,
+        "lift": 2.1585191818348894,
+        "category": "accounts"
+    },
+    {
+        "dt": "2024-01-01",
+        "buying_stage": "Consideration",
+        "perc_total_accounts": 0.6061951141625419,
+        "perc_total_opptys": 0.19718309859154928,
+        "perc_opened": 0.0051625138281620395,
+        "baseline": 1.59,
+        "lift": 0.32468640428692075,
+        "category": "accounts"
+    },
+    {
+        "dt": "2024-01-01",
+        "buying_stage": "Awareness",
+        "perc_total_accounts": 0.17365479802011816,
+        "perc_total_opptys": 0.03621730382293763,
+        "perc_opened": 0.0033100404560500183,
+        "baseline": 1.59,
+        "lift": 0.20817864503459232,
+        "category": "accounts"
+    }
+]

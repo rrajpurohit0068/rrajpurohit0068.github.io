@@ -1,0 +1,18 @@
+{
+    "data": {
+        "products": [
+            {
+                "id": 7,
+                "displayName": "6sense",
+                "normalizedName": "6SENSE",
+                "name": "6sense"
+            },
+            {
+                "id": 5174,
+                "displayName": "Sales Intelligence",
+                "normalizedName": "SLINTEL",
+                "name": "slintel"
+            }
+        ]
+    }
+}

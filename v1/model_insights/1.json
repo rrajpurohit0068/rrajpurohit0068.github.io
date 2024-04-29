@@ -1,0 +1,37 @@
+[
+    {
+        "id": 50717234,
+        "name": "justinchien_rf_company_bp_full_sli_tech_new_1686852913103",
+        "status": "Trained",
+        "product": "6sense",
+        "created": "2023-06-15T18:15:13.110652Z",
+        "updated": "2023-06-15T18:32:12.321949Z",
+        "experiment_type_id": 3,
+        "experiment_type_name": "company_activity",
+        "autopromote_date": null
+    },
+    
+   
+    {
+        "id": 50718,
+        "name": "justinchien_rf_company_bp_full_sli_tech_new_1686852917259",
+        "status": "Promoted",
+        "product": "slintel",
+        "created": "2023-06-15T18:15:17.277032Z",
+        "updated": "2023-12-18T00:01:30.861901Z",
+        "experiment_type_id": 3,
+        "experiment_type_name": "company_bp",
+        "autopromote_date": "2022-11-14T07:34:03.834632Z"
+    },
+    {
+        "id": 50717,
+        "name": "justinchien_rf_company_bp_full_sli_tech_new_1686852913103",
+        "status": "Trained",
+        "product": "6sense",
+        "created": "2023-06-15T18:15:13.110652Z",
+        "updated": "2023-06-15T18:32:12.321949Z",
+        "experiment_type_id": 3,
+        "experiment_type_name": "company_bp",
+        "autopromote_date": null
+    }
+]

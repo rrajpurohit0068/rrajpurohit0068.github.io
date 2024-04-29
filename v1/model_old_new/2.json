@@ -1,0 +1,41 @@
+[
+    {
+        "product_scores_profile_fit": "Weak",
+        "total": 70890,
+        "did_open": 521,
+        "did_won": 244,
+        "open_pct": 0.007349414585978277,
+        "win_pct": 0.003441952320496544,
+        "baseline_open_accounts": 0.05293885601577909,
+        "baseline_won_accounts": 0.02085207100591716,
+        "perc_total_accounts": 0.5592899408284023,
+        "perc_open_accounts": 0.07764530551415798,
+        "perc_won_accounts": 0.0923193340900492
+    },
+    {
+        "product_scores_profile_fit": "Strong",
+        "total": 25069,
+        "did_open": 4571,
+        "did_won": 1781,
+        "open_pct": 0.18233675056843113,
+        "win_pct": 0.07104391878415572,
+        "baseline_open_accounts": 0.05293885601577909,
+        "baseline_won_accounts": 0.02085207100591716,
+        "perc_total_accounts": 0.19778303747534517,
+        "perc_open_accounts": 0.6812220566318927,
+        "perc_won_accounts": 0.6738554672720394
+    },
+    {
+        "product_scores_profile_fit": "Moderate",
+        "total": 30791,
+        "did_open": 1618,
+        "did_won": 618,
+        "open_pct": 0.05254782241564093,
+        "win_pct": 0.020070799909064338,
+        "baseline_open_accounts": 0.05293885601577909,
+        "baseline_won_accounts": 0.02085207100591716,
+        "perc_total_accounts": 0.24292702169625247,
+        "perc_open_accounts": 0.24113263785394934,
+        "perc_won_accounts": 0.23382519863791146
+    }
+]

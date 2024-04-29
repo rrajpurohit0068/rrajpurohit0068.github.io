@@ -1,0 +1,101 @@
+[
+    {
+        "dt": "2024-01-01",
+        "buying_stage": "A",
+        "perc_total_accounts": 0.018114829597789376,
+        "perc_total_opptys": 0.08695652173913043,
+        "perc_opened": 0.07344632768361582,
+        "baseline": 1.512,
+        "lift": 4.856,
+        "source": "CML",
+        "category": "contacts"
+    },
+    {
+        "dt": "2024-01-01",
+        "buying_stage": "B",
+        "perc_total_accounts": 0.5105925698495548,
+        "perc_total_opptys": 0.7725752508361204,
+        "perc_opened": 0.023150932050511126,
+        "baseline": 1.512,
+        "lift": 1.531,
+        "source": "CML",
+        "category": "contacts"
+    },
+    {
+        "dt": "2024-01-01",
+        "buying_stage": "C",
+        "perc_total_accounts": 0.4712926005526558,
+        "perc_total_opptys": 0.14046822742474915,
+        "perc_opened": 0.004560260586319218,
+        "baseline": 1.512,
+        "lift": 0.302,
+        "source": "CML",
+        "category": "contacts"
+    },
+    {
+        "dt": "2024-01-01",
+        "buying_stage": "A",
+        "perc_total_accounts": 0.018829730349094798,
+        "perc_total_opptys": 0.07661290322580645,
+        "perc_opened": 0.07707910750507099,
+        "baseline": 1.886,
+        "lift": 4.087,
+        "source": "MAC",
+        "category": "contacts"
+    },
+    {
+        "dt": "2024-01-01",
+        "buying_stage": "B",
+        "perc_total_accounts": 0.5097013215186006,
+        "perc_total_opptys": 0.719758064516129,
+        "perc_opened": 0.0267515923566879,
+        "baseline": 1.886,
+        "lift": 1.419,
+        "source": "MAC",
+        "category": "contacts"
+    },
+    {
+        "dt": "2024-01-01",
+        "buying_stage": "C",
+        "perc_total_accounts": 0.4714689481323046,
+        "perc_total_opptys": 0.20362903225806453,
+        "perc_opened": 0.008182112767336358,
+        "baseline": 1.886,
+        "lift": 0.434,
+        "source": "MAC",
+        "category": "contacts"
+    },
+    {
+        "dt": "2024-01-01",
+        "buying_stage": "A",
+        "perc_total_accounts": 0.019980208284246737,
+        "perc_total_opptys": 0.07805907172995781,
+        "perc_opened": 0.08726415094339622,
+        "baseline": 2.234,
+        "lift": 3.907,
+        "source": "CMC",
+        "category": "contacts"
+    },
+    {
+        "dt": "2024-01-01",
+        "buying_stage": "B",
+        "perc_total_accounts": 0.5102021582394798,
+        "perc_total_opptys": 0.7130801687763713,
+        "perc_opened": 0.03121825066962224,
+        "baseline": 2.234,
+        "lift": 1.398,
+        "source": "CMC",
+        "category": "contacts"
+    },
+    {
+        "dt": "2024-01-01",
+        "buying_stage": "C",
+        "perc_total_accounts": 0.4698176334762735,
+        "perc_total_opptys": 0.2088607594936709,
+        "perc_opened": 0.009929789368104312,
+        "baseline": 2.234,
+        "lift": 0.445,
+        "source": "CMC",
+        "category": "contacts"
+    }
+]

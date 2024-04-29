@@ -1,0 +1,46 @@
+[
+    {
+        "id": 5292,
+        "name": "Hislu",
+        "partners_list": [
+            "Folloze"
+        ],
+        "token_id": 5426,
+        "token_type": "EPS",
+        "token_key": "86694a5ed748fb282abe888f19e7909b3eeafbe9",
+        "is_deleted": false
+    },
+    {
+        "id": 5328,
+        "name": "wq",
+        "partners_list": [
+            "PathFactory"
+        ],
+        "token_id": 5462,
+        "token_type": "EPS",
+        "token_key": "7ffb42d90a4b276a0fd4df67d98ed84072c7ab42",
+        "is_deleted": false
+    },
+    {
+        "id": 5336,
+        "name": "new_token",
+        "partners_list": [
+            "PathFactory"
+        ],
+        "token_id": 5470,
+        "token_type": "EPS",
+        "token_key": "692af50fce441077269b6ff11dfd33b0d923a348",
+        "is_deleted": false
+    },
+    {
+        "id": 5585,
+        "name": "random_token",
+        "partners_list": [
+            "Uberflip"
+        ],
+        "token_id": 5719,
+        "token_type": "EPS",
+        "token_key": "efd6b75f72d52e01ffa367334e7892d7ec601b39",
+        "is_deleted": false
+    }
+]
