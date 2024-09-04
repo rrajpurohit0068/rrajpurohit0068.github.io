@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.601c5a87.css",
-    "main.js": "/static/js/main.41d54986.js",
+    "main.js": "/static/js/main.581f4a97.js",
     "static/js/787.96becc08.chunk.js": "/static/js/787.96becc08.chunk.js",
     "static/media/high.gif": "/static/media/high.b49394839d13f63fa0b5.gif",
     "static/media/low.gif": "/static/media/low.3d879be070adb80da645.gif",
     "static/media/favicon.ico": "/static/media/favicon.98f464b43d8fb0055d9e.ico",
+    "static/media/frontdoor-logo-cmyk.png": "/static/media/frontdoor-logo-cmyk.996cef03e80aba3b1b26.png",
     "static/media/6sense.png": "/static/media/6sense.10998cc3c86dcec8ca65.png",
     "static/media/cognizant.png": "/static/media/cognizant.832c0ecaa39e4b02fcfa.png",
     "static/media/company.png": "/static/media/company.32b3c02be984df24b81b.png",
@@ -70,11 +71,11 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
     "main.601c5a87.css.map": "/static/css/main.601c5a87.css.map",
-    "main.41d54986.js.map": "/static/js/main.41d54986.js.map",
+    "main.581f4a97.js.map": "/static/js/main.581f4a97.js.map",
     "787.96becc08.chunk.js.map": "/static/js/787.96becc08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.601c5a87.css",
-    "static/js/main.41d54986.js"
+    "static/js/main.581f4a97.js"
   ]
 }

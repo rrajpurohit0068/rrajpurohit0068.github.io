@@ -5,7 +5,7 @@ export const data = [
         "profile": "Software Engineer L4",
         "join_date": "01/08/2024",
         "is_current": true,
-        "img": 'frontdoor.svg',
+        "img": 'frontdoor-logo-cmyk.png',
         "link": 'https://www.frontdoor.com'
     },
     {
