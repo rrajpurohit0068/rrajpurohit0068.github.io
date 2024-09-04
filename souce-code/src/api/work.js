@@ -1,10 +1,19 @@
 export const data = [
     {
+        "company": "frontdoor.com",
+        "company_type": "Product Based Company",
+        "profile": "Software Engineer L4",
+        "join_date": "01/08/2024",
+        "is_current": true,
+        "img": 'frontdoor.svg',
+        "link": 'https://www.frontdoor.com'
+    },
+    {
         "company": "6sense.com",
         "company_type": "Product Based Company",
         "profile": "Software Engineer 3",
         "join_date": "01/01/2022",
-        "is_current": true,
+        "end_date": "01/08/2024",
         "img": '6sense.png',
         "link": 'https://www.6sense.com'
     },
