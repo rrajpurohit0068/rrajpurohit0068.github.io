@@ -53,7 +53,7 @@ const TypingWrapper = styled.div`
 
 
 export function Home() {
-  
+
   return (
     <AppWrapper>
       <TypingWrapper>

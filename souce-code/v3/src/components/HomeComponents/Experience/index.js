@@ -16,7 +16,6 @@ const Content = styled.div`
 `
 
 export const Experience = () => {
-    console.log(data);
     return <Container>
         <Title>
             <SvgAnimation>

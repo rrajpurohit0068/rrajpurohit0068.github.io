@@ -39,25 +39,23 @@ margin-inline: 10px;
 `
 
 export const SvgAnimation = ({ children }) => {
-    const divRef = React.useRef(null)
-    const [len,setLen] = React.useState(0);
-    React.useEffect(() => {
-        if (divRef.current) {
-            // const svgImg = 
-            const svgImg = divRef.current
-            let totalLen = 0;
-            console.log({ d: divRef.current, svg: svgImg.querySelector('svg') });
-            for (let path of svgImg.querySelector('svg')?.querySelectorAll('path') || []) {
-                // alert('got it')
-                console.log(svgImg)
-                // path.classList.add('svgAnimation');
-                totalLen = Math.max(path.getTotalLength(), totalLen)
-            }
+    // const divRef = React.useRef(null)
+    // const [len,setLen] = React.useState(0);
+    // React.useEffect(() => {
+    //     if (divRef.current) {
+    //         // const svgImg = 
+    //         const svgImg = divRef.current
+    //         let totalLen = 0;
+    //         for (let path of svgImg.querySelector('svg')?.querySelectorAll('path') || []) {
+    //             // alert('got it')
+    //             // path.classList.add('svgAnimation');
+    //             totalLen = Math.max(path.getTotalLength(), totalLen)
+    //         }
             
-            setLen(totalLen)
-        }
-    },[])
-    return <Container ref={divRef} length={len}>
+    //         setLen(totalLen)
+    //     }
+    // },[])
+    return <Container>
         {children}
     </Container>
 }

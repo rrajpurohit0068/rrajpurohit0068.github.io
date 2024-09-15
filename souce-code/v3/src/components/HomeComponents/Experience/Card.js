@@ -52,9 +52,7 @@ export const Card = (
     const [eday, emonth, eyear] = (end_date || '').split('/');
     const start = moment([jyear, jmonth -1, jday]);
     const end = is_current ? moment() : moment([eyear, emonth -1, eday]);
-    console.log(end, start, join_date.slice('/'))
     const months = end.diff(start, 'month');
-    console.log({join_date, end_date, start, end, company, d: RenderDate({start, end, is_current})})
 
 
     return <Container>

@@ -23,9 +23,9 @@ export function Router({ children }) {
 
   return (
     <Routes>
-       {router.map(({ path, element }) => {
-    return <Route path={path} element={element} />;
-  })}
+      {router.map(({ path, element }) => {
+        return <Route path={path} element={element} />;
+      })}
     </Routes>
   );
 }

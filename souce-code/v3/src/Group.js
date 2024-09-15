@@ -51,36 +51,36 @@ export const GroupComponent = () => {
         if (!gn || !items) {
             return
         }
-        setGroupsDataList(prev => [...prev, { gn, items: items.split(',')}])
+        setGroupsDataList(prev => [...prev, { gn, items: items.split(',') }])
     }
     return <div>
         <form onSubmit={onSubmit}>
-        <h1>Create Group</h1>
-        <select value={gn} onChange={(e) => setGn(e.target.value)}>
-            {groupOptions.map(g => {
-                return <option value={g}>{g}</option>
-            })}
-        </select>
-        <textarea placeholder="items with , separated" value={items} onChange={(e) => setItems(e.target.value)} />
-        <button type="submit" >submit </button>
+            <h1>Create Group</h1>
+            <select value={gn} onChange={(e) => setGn(e.target.value)}>
+                {groupOptions.map(g => {
+                    return <option value={g}>{g}</option>
+                })}
+            </select>
+            <textarea placeholder="items with , separated" value={items} onChange={(e) => setItems(e.target.value)} />
+            <button type="submit" >submit </button>
         </form>
         <div>
             <h1>Grousp List</h1>
             <input placeholder="Search Group or items in group" value={searchText} onChange={(e) => setSearchText(e.target.value)}></input>
             {
-                groupsDataList.filter(({gn, items}) => {
+                groupsDataList.filter(({ gn, items }) => {
                     let val = searchText.toLowerCase();
                     return (gn.toLowerCase().includes(val) || items.join(' ').toLowerCase().includes(val))
-                        
-                }).map(({ gn, items}) => {
-                    return <div> 
+
+                }).map(({ gn, items }) => {
+                    return <div>
                         <h2>{gn}</h2>
                         {items.join(' , ')}
-                        </div>
+                    </div>
                 })
             }
         </div>
-        
+
     </div>
 }
 

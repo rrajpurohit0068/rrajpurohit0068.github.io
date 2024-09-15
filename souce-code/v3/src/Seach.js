@@ -23,7 +23,7 @@ const list = [
 ];
 
 export const Search = () => {
-    const [ search , setSearch] = React.useState('');
+    const [search, setSearch] = React.useState('');
     const [searchList, setSearchList] = React.useState(list);
     const onSearch = (e) => {
         const val = e.target.value.toLowerCase()
@@ -32,26 +32,26 @@ export const Search = () => {
             setSearchList(list);
             return;
         }
-        
+
         setSearchList(
             list.filter(({ title }) => {
                 return title.toLowerCase().includes(val)
             })
 
         )
-        
+
 
     }
-    
+
     return <div>
         <h1>Search Feature</h1>
-        <input type='text' onChange={onSearch} value={search}/>
-            <ul>
-                {
-                    searchList.map(({ title }) => {
-                        return <li>{title}</li>
-                    })
-                }
-            </ul>
-        </div>
+        <input type='text' onChange={onSearch} value={search} />
+        <ul>
+            {
+                searchList.map(({ title }) => {
+                    return <li>{title}</li>
+                })
+            }
+        </ul>
+    </div>
 }
