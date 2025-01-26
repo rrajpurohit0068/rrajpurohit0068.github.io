@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.61635e83.css",
-    "main.js": "/static/js/main.d5d71365.js",
+    "main.js": "/static/js/main.53dcc22c.js",
     "static/js/453.37916687.chunk.js": "/static/js/453.37916687.chunk.js",
     "static/media/favicon.ico": "/static/media/favicon.98f464b43d8fb0055d9e.ico",
     "static/media/i1.jpeg": "/static/media/i1.6cf2ec0a4efd3a73861d.jpeg",
-    "static/media/i5.jpeg": "/static/media/i5.a65944b00b0f5347c81b.jpeg",
+    "static/media/i3.jpeg": "/static/media/i3.bb897bb1661ce3a4273b.jpeg",
+    "static/media/i4.jpeg": "/static/media/i4.a65944b00b0f5347c81b.jpeg",
     "static/media/i2.jpeg": "/static/media/i2.b23ae81b047567e3caf7.jpeg",
-    "static/media/i6.jpeg": "/static/media/i6.4a6580766191eeb5f3ba.jpeg",
+    "static/media/i5.jpeg": "/static/media/i5.4a6580766191eeb5f3ba.jpeg",
     "static/media/frontdoor.png": "/static/media/frontdoor.bfdc051d64198b9bd01b.png",
-    "static/media/i3.jpeg": "/static/media/i3.8dffb64b4ebbe7f96114.jpeg",
-    "static/media/i4.jpeg": "/static/media/i4.5136c336bc277dfe56e0.jpeg",
     "static/media/6sense.png": "/static/media/6sense.10998cc3c86dcec8ca65.png",
     "static/media/cognizant.png": "/static/media/cognizant.832c0ecaa39e4b02fcfa.png",
     "static/media/company.png": "/static/media/company.32b3c02be984df24b81b.png",
@@ -76,11 +75,11 @@
     "static/media/roboto-greek-ext-300-normal.woff": "/static/media/roboto-greek-ext-300-normal.b590dbe5c639944366d1.woff",
     "static/media/roboto-greek-ext-400-normal.woff": "/static/media/roboto-greek-ext-400-normal.16eb83b4a3b1ea994243.woff",
     "main.61635e83.css.map": "/static/css/main.61635e83.css.map",
-    "main.d5d71365.js.map": "/static/js/main.d5d71365.js.map",
+    "main.53dcc22c.js.map": "/static/js/main.53dcc22c.js.map",
     "453.37916687.chunk.js.map": "/static/js/453.37916687.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61635e83.css",
-    "static/js/main.d5d71365.js"
+    "static/js/main.53dcc22c.js"
   ]
 }
